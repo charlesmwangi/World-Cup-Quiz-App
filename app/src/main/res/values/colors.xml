@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="scoreBackground">#43A047</color>
+    <color name="scoreText">#FFFFFF</color>
+    <color name="buttonBackground">#2979FF</color>
+    <color name="textViewTextColor">#000000</color>
+    <color name="answersTextColor">#09af00</color>
+</resources>

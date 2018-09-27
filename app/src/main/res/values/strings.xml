@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">2018 World Cup Quiz App</string>
+
+    <string name="q1">After how long does the competition happen?</string>
+    <string name="q1a">2 Years</string>
+    <string name="q1b">Every year</string>
+    <string name="q1c">4 years</string>
+
+    <string name="q2">How many countries were participating in 2018 world cup 2018?</string>
+    <string name="q2a">32 countries</string>
+    <string name="q2b">All countries</string>
+    <string name="q2c">64 countries</string>
+
+    <string name="q3">Which was the host nation for 2018 world cup?</string>
+    <string name="q3a">Germany</string>
+    <string name="q3b">Brazil</string>
+    <string name="q3c">Russia</string>
+
+    <string name="q4">Who are the current World Cup champions?</string>
+    <string name="q4a">Germany</string>
+    <string name="q4b">France</string>
+    <string name="q4c">Argentina</string>
+
+    <string name="q5">Which country has the most world cup titles?</string>
+    <string name="q5a">Senegal</string>
+    <string name="q5b">Brazil</string>
+    <string name="q5c">France</string>
+
+    <string name="q6">Christiano Ronaldo plays for which country?</string>
+    <string name="q6a">Portugal</string>
+    <string name="q6b">Juventus</string>
+    <string name="q6c">Poland</string>
+
+    <string name="q7">Who was the top scorer in the world cup 2018?</string>
+    <string name="q7a">Lionel Messi</string>
+    <string name="q7b">Harry Kane</string>
+    <string name="q7c">Christiano Ronaldo</string>
+
+    <string name="q8">Which was the first country in Africa to host the World Cup competition?</string>
+    <string name="q8a">South Africa</string>
+    <string name="q8b">Kenya</string>
+    <string name="q8c">Nigeria</string>
+
+    <string name="q9">Which country will host the next World Cup Competition?</string>
+    <string name="q9a">Qatar</string>
+    <string name="q9b">Mexico</string>
+    <string name="q9c">Argentina</string>
+
+    <string name="q10">Which team(s) have won the World Cup title so far?</string>
+    <string name="q10a">Argentina</string>
+    <string name="q10b">France</string>
+    <string name="q10c">Brazil</string>
+    <string name="q10d">Peru</string>
+    <string name="q10answer">Brazil, France, Brazil</string>
+
+    <string name="q11">Which team were you supporting in 2018 World Cup?</string>
+    <string name="text1">Enter your name</string>
+    <string name="text2">Team Name</string>
+    <string name="scoreText">score</string>
+    <string name="answers">Answers</string>
+    <string name="submit">Submit</string>
+    <string name="retry">Retry</string>
+</resources>

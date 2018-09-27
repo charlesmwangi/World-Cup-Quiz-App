@@ -1,0 +1,86 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!-- App branding color for the app bar -->
+        <item name="colorPrimary">#009688</item>
+        <!-- Darker variant for the status bar and contextual status bar  -->
+        <item name="colorPrimaryDark">#00796B</item>
+        <!-- Theme UI. Controls checkboxes and text fields -->
+        <item name="colorAccent">#536DFE</item>
+    </style>
+    <style name="scrollView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="styles">
+        <!--styles for TextViews-->
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+
+    </style>
+    <style name="styles1">
+        <!--styles for radiogroup-->
+        <item name="android:layout_marginLeft">30dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="styleLayout">
+        <!--styles for the main layout-->
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="styleLayout2">
+        <!--styles for child LinearLayout-->
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+    <style name="styleButton">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">10dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_margin">16dp</item>
+        <item name="android:visibility">invisible</item>
+
+    </style>
+    <style name="styleRadio">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:onClick">onRadioButtonClicked</item>
+    </style>
+
+    <style name="styleCheckbox">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:onClick">onCheckBoxClicked</item>
+        <item name="android:layout_marginLeft">40dp</item>
+    </style>
+
+    <style name="EditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+       <item name="android:layout_marginLeft">40dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:inputType">textCapWords</item>
+
+    </style>
+    <style name="score">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:visibility">invisible</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:layout_marginLeft">40dp</item>
+    </style>
+
+</resources>
